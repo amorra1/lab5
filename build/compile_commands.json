@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Alex/OneDrive - Queen's University/Desktop/Year 2/ELEC 278/LABS/Lab5.2/lab5/build",
+  "command": "C:\\Users\\Alex\\ONEDRI~1\\Desktop\\YEAR2~1\\ELEC27~1\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab5.dir\\main.c.obj -c \"C:\\Users\\Alex\\OneDrive - Queen's University\\Desktop\\Year 2\\ELEC 278\\LABS\\Lab5.2\\lab5\\main.c\"",
+  "file": "C:/Users/Alex/OneDrive - Queen's University/Desktop/Year 2/ELEC 278/LABS/Lab5.2/lab5/main.c",
+  "output": "CMakeFiles/lab5.dir/main.c.obj"
+}
+]
